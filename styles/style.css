@@ -1,0 +1,22 @@
+body {
+    background-color: blue;
+}
+
+ div {
+        background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+      }
+
+div{
+        height: 200px;
+        background-color: #EEE;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        font-size: larger;
+    }
+    img {
+        margin: auto;
+        display: block;
+        }
+
+   

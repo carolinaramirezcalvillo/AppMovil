@@ -1,0 +1,32 @@
+{
+    "short_name": "Pagina1",
+    "name": "Creando Pagina1",
+    "icons": [
+        {
+            "src": "images/iconos/196.png",
+            "sizes": "196x196",
+            "type": "image/png"
+        },
+        {
+            "src": "images/iconos/216.png",
+            "sizes": "216x216",
+            "type": "image/png"
+        },
+        {
+            "src": "images/iconos/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "images/iconos/1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#f9d627",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#f9d627",
+    "description": "Weather forecast information"
+}
